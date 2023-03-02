@@ -7,3 +7,9 @@ Docker deployment runs [wg-easy](https://github.com/WeeJeWel/wg-easy) and [pihol
 ## Usage
 
 First create a .env file to substitute variables for your deployment.
+
+Run containers
+
+```sh
+docker compose up -d
+```
